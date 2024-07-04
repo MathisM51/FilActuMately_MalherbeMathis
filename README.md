@@ -14,17 +14,17 @@ Ce projet est une application en React Native de fil d'actualité. Il a été cr
 ## Aperçu
 
 ### Page principale
-![Page principale](./screenshots/page_principale_1.png)
+<img src="./screenshots/page_principale_1.png" alt="Page principale" width="300"/>
 
 ### Page d'ajout d'un post
-![Page ajout de post 1](./screenshots/page_ajout_post_1.png)
-![Page ajout de post 2](./screenshots/page_ajout_post_2.png)
+<img src="./screenshots/page_ajout_post_1.png" alt="Page ajout de post 1" width="300"/>
+<img src="./screenshots/page_ajout_post_2.png" alt="Page ajout de post 2" width="300"/>
 
 ### Page principale après ajout
-![Page principale après ajout](./screenshots/page_principale_2.png)
+<img src="./screenshots/page_principale_2.png" alt="Page principale après ajout" width="300"/>
 
 ### Page de modification d'un post
-![Page ajout de modification](./screenshots/page_modification_post_1.png)
+<img src="./screenshots/page_modification_post_1.png" alt="Page ajout de modification" width="300"/>
 
 ## Installation
 
