@@ -4,11 +4,27 @@ Ce projet est une application en React Native de fil d'actualité. Il a été cr
 
 ## Table des matières
 
+- [Aperçu](#aperçu)
 - [Installation](#installation)
 - [Structure du projet](#structure-du-projet)
 - [Composants principaux](#composants-principaux)
 - [Technologies utilisées](#technologies-utilisées)
 - [Auteur](#auteur)
+
+## Aperçu
+
+### Page principale
+![Page principale](./screenshots/page_principale_1.png)
+
+### Page d'ajout d'un post
+![Page ajout de post 1](./screenshots/page_ajout_post_1.png)
+![Page ajout de post 2](./screenshots/page_ajout_post_2.png)
+
+### Page principale après ajout
+![Page principale après ajout](./screenshots/page_principale_2.png)
+
+### Page de modification d'un post
+![Page ajout de modification](./screenshots/page_modification_post_1.png)
 
 ## Installation
 
