@@ -58,7 +58,7 @@ Ce projet est une application en React Native de fil d'actualité. Il a été cr
 
 ## Structure du projet
 
-Les ajouts et/ou modification sons sur les fichiers/dossiers suivants :
+Les ajouts et/ou modifications sont sur les fichiers/dossiers suivants :
 
 ```plaintext
 .
